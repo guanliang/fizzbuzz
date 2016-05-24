@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e73b415a-22bf-4efa-9301-d6ad34dd3d7a" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/fizzbuzz.iml" afterPath="$PROJECT_DIR$/.idea/fizzbuzz.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spec/fizzbuzz_spec.rb" afterPath="$PROJECT_DIR$/spec/fizzbuzz_spec.rb" />
     </list>
     <ignored path="fizzbuzz.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -18,10 +21,12 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/fizzbuzz@Fizzbuzz_Integers_will_response_to_an_extended_method_called_is_divisble_by__and_return_true_or_false_returns_true_if_the_integer_can_be_divided_by_the_provided_number__fizzbuzz.coverage" NAME="Fizzbuzz Integers will response to an extended method called is_divisble_by? and return true or false returns true if the integer can be divided by the provided number: fizzbuzz Coverage Results" MODIFIED="1464092317877" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="fizzbuzz" />
     <SUITE FILE_PATH="coverage/fizzbuzz@Fizzbuzz_Integers_will_response_to_an_extended_method_called_contains__and_return_true_or_false_accordingly_returns_false_if_an_integer_does_not_contain_given_digit__fizzbuzz.coverage" NAME="Fizzbuzz Integers will response to an extended method called contains? and return true or false accordingly returns false if an integer does not contain given digit: fizzbuzz Coverage Results" MODIFIED="1464092882490" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="fizzbuzz" />
+    <SUITE FILE_PATH="coverage/fizzbuzz@Fizzbuzz_Integer_will_response_to_an_extended_method_called_fizzbuzz_and_return_the_right_output_returns_fizz_if_an_interger_can_be_divided_by_3_or_contains_3_even_if_it_can_also_contains_5__fizzbuzz.coverage" NAME="Fizzbuzz Integer will response to an extended method called fizzbuzz and return the right output returns fizz if an interger can be divided by 3 or contains 3 even if it can also contains 5: fizzbuzz Coverage Results" MODIFIED="1464095676278" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="fizzbuzz" />
     <SUITE FILE_PATH="coverage/fizzbuzz@Fizzbuzz__fizzbuzz.coverage" NAME="Fizzbuzz: fizzbuzz Coverage Results" MODIFIED="1464092027734" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="fizzbuzz" />
-    <SUITE FILE_PATH="coverage/fizzbuzz@Run_spec__fizzbuzz_spec___fizzbuzz.coverage" NAME="Run spec 'fizzbuzz_spec': fizzbuzz Coverage Results" MODIFIED="1464092900305" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="fizzbuzz" />
+    <SUITE FILE_PATH="coverage/fizzbuzz@Run_spec__fizzbuzz_spec___fizzbuzz.coverage" NAME="Run spec 'fizzbuzz_spec': fizzbuzz Coverage Results" MODIFIED="1464095682178" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="fizzbuzz" />
     <SUITE FILE_PATH="coverage/fizzbuzz@Fizzbuzz_Integers_will_response_to_an_extended_method_called_is_divisble_by__and_return_true_or_false_returns_false_if_the_integer_can_not_be_divided_by_the_provided_number__fizzbuzz.coverage" NAME="Fizzbuzz Integers will response to an extended method called is_divisble_by? and return true or false returns false if the integer can not be divided by the provided number: fizzbuzz Coverage Results" MODIFIED="1464092298402" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="fizzbuzz" />
     <SUITE FILE_PATH="coverage/fizzbuzz@Fizzbuzz_Integers_will_response_to_an_extended_method_called_contains__and_return_true_or_false_accordingly__fizzbuzz.coverage" NAME="Fizzbuzz Integers will response to an extended method called contains? and return true or false accordingly: fizzbuzz Coverage Results" MODIFIED="1464092985134" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="fizzbuzz" />
+    <SUITE FILE_PATH="coverage/fizzbuzz@Fizzbuzz_Integer_will_response_to_an_extended_method_called_fizzbuzz_and_return_the_right_output_returns_buzz_if_an_integer_can_be_divided_by_5_or_contains_5__fizzbuzz.coverage" NAME="Fizzbuzz Integer will response to an extended method called fizzbuzz and return the right output returns buzz if an integer can be divided by 5 or contains 5: fizzbuzz Coverage Results" MODIFIED="1464095647277" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="fizzbuzz" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -32,21 +37,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="fizzbuzz_spec.rb" pinned="false" current-in-tab="false">
+      <file leaf-file-name="fizzbuzz_spec.rb" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/spec/fizzbuzz_spec.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+            <state relative-caret-position="225">
+              <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="fizzbuzz.rb" pinned="false" current-in-tab="true">
+      <file leaf-file-name="fizzbuzz.rb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/fizzbuzz.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+            <state relative-caret-position="225">
+              <caret line="15" column="3" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
               <folding />
             </state>
           </provider>
@@ -55,8 +60,8 @@
       <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="20" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+            <state relative-caret-position="75">
+              <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -70,9 +75,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/lib/fizzbuzz.rb" />
         <option value="$PROJECT_DIR$/spec/fizzbuzz_spec.rb" />
         <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/lib/fizzbuzz.rb" />
       </list>
     </option>
   </component>
@@ -83,10 +88,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="236" />
-    <option name="y" value="229" />
-    <option name="width" value="1400" />
-    <option name="height" value="986" />
+    <option name="x" value="65" />
+    <option name="y" value="24" />
+    <option name="width" value="1615" />
+    <option name="height" value="1026" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -169,40 +174,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
-  <component name="RunManager" selected="RSpec.Fizzbuzz Integers will response to an extended method called contains? and return true or false accordingly: fizzbuzz">
-    <configuration default="false" name="Fizzbuzz Integers will response to an extended method called is_divisble_by? and return true or false returns true if the integer can be divided by the provided number: fizzbuzz" type="RSpecRunConfigurationType" factoryName="RSpec" temporary="true">
-      <predefined_log_file id="RUBY_RSPEC" enabled="true" />
-      <module name="fizzbuzz" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
-      <envs>
-        <env name="JRUBY_OPTS" value="-X+O" />
-      </envs>
-      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
-      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
-      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
-        <COVERAGE_PATTERN ENABLED="true">
-          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
-        </COVERAGE_PATTERN>
-      </EXTENSION>
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/spec/fizzbuzz_spec.rb" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_RUNNER_PATH" VALUE="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*_spec.rb" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE="Fizzbuzz Integers will response to an extended method called is_divisble_by? and return true or false returns true if the integer can be divided by the provided number" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_ARGS" VALUE="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_SPEC_RUNNER" VALUE="false" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="RSpec.Run spec 'fizzbuzz_spec': fizzbuzz">
     <configuration default="false" name="Run spec 'fizzbuzz_spec': fizzbuzz" type="RSpecRunConfigurationType" factoryName="RSpec" temporary="true">
       <predefined_log_file id="RUBY_RSPEC" enabled="true" />
       <module name="fizzbuzz" />
@@ -226,39 +198,6 @@
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_RUNNER_PATH" VALUE="" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*_spec.rb" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_ARGS" VALUE="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_SPEC_RUNNER" VALUE="false" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Fizzbuzz Integers will response to an extended method called is_divisble_by? and return true or false returns false if the integer can not be divided by the provided number: fizzbuzz" type="RSpecRunConfigurationType" factoryName="RSpec" temporary="true">
-      <predefined_log_file id="RUBY_RSPEC" enabled="true" />
-      <module name="fizzbuzz" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
-      <envs>
-        <env name="JRUBY_OPTS" value="-X+O" />
-      </envs>
-      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
-      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
-      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
-        <COVERAGE_PATTERN ENABLED="true">
-          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
-        </COVERAGE_PATTERN>
-      </EXTENSION>
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/spec/fizzbuzz_spec.rb" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_RUNNER_PATH" VALUE="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*_spec.rb" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE="Fizzbuzz Integers will response to an extended method called is_divisble_by? and return true or false returns false if the integer can not be divided by the provided number" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_ARGS" VALUE="" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
@@ -325,6 +264,72 @@
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_RUNNER_PATH" VALUE="" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*_spec.rb" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE="Fizzbuzz Integers will response to an extended method called contains? and return true or false accordingly" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_ARGS" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_SPEC_RUNNER" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Fizzbuzz Integer will response to an extended method called fizzbuzz and return the right output returns buzz if an integer can be divided by 5 or contains 5: fizzbuzz" type="RSpecRunConfigurationType" factoryName="RSpec" temporary="true">
+      <predefined_log_file id="RUBY_RSPEC" enabled="true" />
+      <module name="fizzbuzz" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs>
+        <env name="JRUBY_OPTS" value="-X+O" />
+      </envs>
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/spec/fizzbuzz_spec.rb" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_RUNNER_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*_spec.rb" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE="Fizzbuzz Integer will response to an extended method called fizzbuzz and return the right output returns buzz if an integer can be divided by 5 or contains 5" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_ARGS" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_SPEC_RUNNER" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Fizzbuzz Integer will response to an extended method called fizzbuzz and return the right output returns fizz if an interger can be divided by 3 or contains 3 even if it can also contains 5: fizzbuzz" type="RSpecRunConfigurationType" factoryName="RSpec" temporary="true">
+      <predefined_log_file id="RUBY_RSPEC" enabled="true" />
+      <module name="fizzbuzz" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs>
+        <env name="JRUBY_OPTS" value="-X+O" />
+      </envs>
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/spec/fizzbuzz_spec.rb" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_RUNNER_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*_spec.rb" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE="Fizzbuzz Integer will response to an extended method called fizzbuzz and return the right output returns fizz if an interger can be divided by 3 or contains 3 even if it can also contains 5" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_ARGS" VALUE="" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
@@ -441,19 +446,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="RSpec.Fizzbuzz Integers will response to an extended method called is_divisble_by? and return true or false returns true if the integer can be divided by the provided number: fizzbuzz" />
-      <item index="1" class="java.lang.String" itemvalue="RSpec.Run spec 'fizzbuzz_spec': fizzbuzz" />
-      <item index="2" class="java.lang.String" itemvalue="RSpec.Fizzbuzz Integers will response to an extended method called is_divisble_by? and return true or false returns false if the integer can not be divided by the provided number: fizzbuzz" />
-      <item index="3" class="java.lang.String" itemvalue="RSpec.Fizzbuzz Integers will response to an extended method called contains? and return true or false accordingly returns false if an integer does not contain given digit: fizzbuzz" />
-      <item index="4" class="java.lang.String" itemvalue="RSpec.Fizzbuzz Integers will response to an extended method called contains? and return true or false accordingly: fizzbuzz" />
+      <item index="0" class="java.lang.String" itemvalue="RSpec.Run spec 'fizzbuzz_spec': fizzbuzz" />
+      <item index="1" class="java.lang.String" itemvalue="RSpec.Fizzbuzz Integers will response to an extended method called contains? and return true or false accordingly returns false if an integer does not contain given digit: fizzbuzz" />
+      <item index="2" class="java.lang.String" itemvalue="RSpec.Fizzbuzz Integers will response to an extended method called contains? and return true or false accordingly: fizzbuzz" />
+      <item index="3" class="java.lang.String" itemvalue="RSpec.Fizzbuzz Integer will response to an extended method called fizzbuzz and return the right output returns buzz if an integer can be divided by 5 or contains 5: fizzbuzz" />
+      <item index="4" class="java.lang.String" itemvalue="RSpec.Fizzbuzz Integer will response to an extended method called fizzbuzz and return the right output returns fizz if an interger can be divided by 3 or contains 3 even if it can also contains 5: fizzbuzz" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="RSpec.Fizzbuzz Integers will response to an extended method called contains? and return true or false accordingly: fizzbuzz" />
-        <item index="1" class="java.lang.String" itemvalue="RSpec.Run spec 'fizzbuzz_spec': fizzbuzz" />
-        <item index="2" class="java.lang.String" itemvalue="RSpec.Fizzbuzz Integers will response to an extended method called contains? and return true or false accordingly returns false if an integer does not contain given digit: fizzbuzz" />
-        <item index="3" class="java.lang.String" itemvalue="RSpec.Fizzbuzz Integers will response to an extended method called is_divisble_by? and return true or false returns true if the integer can be divided by the provided number: fizzbuzz" />
-        <item index="4" class="java.lang.String" itemvalue="RSpec.Fizzbuzz Integers will response to an extended method called is_divisble_by? and return true or false returns false if the integer can not be divided by the provided number: fizzbuzz" />
+        <item index="0" class="java.lang.String" itemvalue="RSpec.Run spec 'fizzbuzz_spec': fizzbuzz" />
+        <item index="1" class="java.lang.String" itemvalue="RSpec.Fizzbuzz Integer will response to an extended method called fizzbuzz and return the right output returns fizz if an interger can be divided by 3 or contains 3 even if it can also contains 5: fizzbuzz" />
+        <item index="2" class="java.lang.String" itemvalue="RSpec.Fizzbuzz Integer will response to an extended method called fizzbuzz and return the right output returns buzz if an integer can be divided by 5 or contains 5: fizzbuzz" />
+        <item index="3" class="java.lang.String" itemvalue="RSpec.Fizzbuzz Integers will response to an extended method called contains? and return true or false accordingly: fizzbuzz" />
+        <item index="4" class="java.lang.String" itemvalue="RSpec.Fizzbuzz Integers will response to an extended method called contains? and return true or false accordingly returns false if an integer does not contain given digit: fizzbuzz" />
       </list>
     </recent_temporary>
   </component>
@@ -467,55 +472,55 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1464090782863</updated>
-      <workItem from="1464090784035" duration="2913000" />
+      <workItem from="1464090784035" duration="4884000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Fizzbuzz_Integers_will_response_to_an_extended_method_called_contains__and_return_true_or_false_accordingly__fizzbuzz - 2016.05.24 at 13h 28m 41s.xml">
-      <configuration name="Fizzbuzz Integers will response to an extended method called contains? and return true or false accordingly: fizzbuzz" configurationId="RSpecRunConfigurationType" />
+    <history-entry file="Fizzbuzz_Integer_will_response_to_an_extended_method_called_fizzbuzz_and_return_the_right_output_returns_buzz_if_an_integer_can_be_divided_by_5_or_contains_5__fizzbuzz - 2016.05.24 at 14h 11m 38s.xml">
+      <configuration name="Fizzbuzz Integer will response to an extended method called fizzbuzz and return the right output returns buzz if an integer can be divided by 5 or contains 5: fizzbuzz" configurationId="RSpecRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Fizzbuzz_Integer_will_response_to_an_extended_method_called_fizzbuzz_and_return_the_right_output_returns_buzz_if_an_integer_can_be_divided_by_5_or_contains_5__fizzbuzz - 2016.05.24 at 14h 11m 50s.xml">
+      <configuration name="Fizzbuzz Integer will response to an extended method called fizzbuzz and return the right output returns buzz if an integer can be divided by 5 or contains 5: fizzbuzz" configurationId="RSpecRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Fizzbuzz_Integer_will_response_to_an_extended_method_called_fizzbuzz_and_return_the_right_output_returns_buzz_if_an_integer_can_be_divided_by_5_or_contains_5__fizzbuzz - 2016.05.24 at 14h 12m 02s.xml">
+      <configuration name="Fizzbuzz Integer will response to an extended method called fizzbuzz and return the right output returns buzz if an integer can be divided by 5 or contains 5: fizzbuzz" configurationId="RSpecRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Fizzbuzz_Integer_will_response_to_an_extended_method_called_fizzbuzz_and_return_the_right_output_returns_buzz_if_an_integer_can_be_divided_by_5_or_contains_5__fizzbuzz - 2016.05.24 at 14h 12m 18s.xml">
+      <configuration name="Fizzbuzz Integer will response to an extended method called fizzbuzz and return the right output returns buzz if an integer can be divided by 5 or contains 5: fizzbuzz" configurationId="RSpecRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Fizzbuzz_Integer_will_response_to_an_extended_method_called_fizzbuzz_and_return_the_right_output_returns_buzz_if_an_integer_can_be_divided_by_5_or_contains_5__fizzbuzz - 2016.05.24 at 14h 12m 20s.xml">
+      <configuration name="Fizzbuzz Integer will response to an extended method called fizzbuzz and return the right output returns buzz if an integer can be divided by 5 or contains 5: fizzbuzz" configurationId="RSpecRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Fizzbuzz_Integer_will_response_to_an_extended_method_called_fizzbuzz_and_return_the_right_output_returns_buzz_if_an_integer_can_be_divided_by_5_or_contains_5__fizzbuzz - 2016.05.24 at 14h 14m 04s.xml">
+      <configuration name="Fizzbuzz Integer will response to an extended method called fizzbuzz and return the right output returns buzz if an integer can be divided by 5 or contains 5: fizzbuzz" configurationId="RSpecRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Fizzbuzz_Integer_will_response_to_an_extended_method_called_fizzbuzz_and_return_the_right_output_returns_buzz_if_an_integer_can_be_divided_by_5_or_contains_5__fizzbuzz - 2016.05.24 at 14h 14m 07s.xml">
+      <configuration name="Fizzbuzz Integer will response to an extended method called fizzbuzz and return the right output returns buzz if an integer can be divided by 5 or contains 5: fizzbuzz" configurationId="RSpecRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Fizzbuzz_Integer_will_response_to_an_extended_method_called_fizzbuzz_and_return_the_right_output_returns_fizz_if_an_interger_can_be_divided_by_3_or_contains_3_even_if_it_can_also_contains_5__fizzbuzz - 2016.05.24 at 14h 14m 36s.xml">
+      <configuration name="Fizzbuzz Integer will response to an extended method called fizzbuzz and return the right output returns fizz if an interger can be divided by 3 or contains 3 even if it can also contains 5: fizzbuzz" configurationId="RSpecRunConfigurationType" />
     </history-entry>
     <history-entry file="Fizzbuzz_Integers_will_response_to_an_extended_method_called_contains__and_return_true_or_false_accordingly__fizzbuzz - 2016.05.24 at 13h 29m 45s.xml">
       <configuration name="Fizzbuzz Integers will response to an extended method called contains? and return true or false accordingly: fizzbuzz" configurationId="RSpecRunConfigurationType" />
     </history-entry>
-    <history-entry file="Fizzbuzz_Integers_will_response_to_an_extended_method_called_contains__and_return_true_or_false_accordingly_returns_false_if_an_integer_does_not_contain_given_digit__fizzbuzz - 2016.05.24 at 13h 28m 02s.xml">
-      <configuration name="Fizzbuzz Integers will response to an extended method called contains? and return true or false accordingly returns false if an integer does not contain given digit: fizzbuzz" configurationId="RSpecRunConfigurationType" />
-    </history-entry>
-    <history-entry file="Fizzbuzz_Integers_will_response_to_an_extended_method_called_is_divisble_by__and_return_true_or_false_returns_false_if_the_integer_can_not_be_divided_by_the_provided_number__fizzbuzz - 2016.05.24 at 13h 18m 18s.xml">
-      <configuration name="Fizzbuzz Integers will response to an extended method called is_divisble_by? and return true or false returns false if the integer can not be divided by the provided number: fizzbuzz" configurationId="RSpecRunConfigurationType" />
-    </history-entry>
-    <history-entry file="Fizzbuzz_Integers_will_response_to_an_extended_method_called_is_divisble_by__and_return_true_or_false_returns_true_if_the_integer_can_be_divided_by_the_provided_number__fizzbuzz - 2016.05.24 at 13h 18m 04s.xml">
-      <configuration name="Fizzbuzz Integers will response to an extended method called is_divisble_by? and return true or false returns true if the integer can be divided by the provided number: fizzbuzz" configurationId="RSpecRunConfigurationType" />
-    </history-entry>
-    <history-entry file="Fizzbuzz_Integers_will_response_to_an_extended_method_called_is_divisble_by__and_return_true_or_false_returns_true_if_the_integer_can_be_divided_by_the_provided_number__fizzbuzz - 2016.05.24 at 13h 18m 38s.xml">
-      <configuration name="Fizzbuzz Integers will response to an extended method called is_divisble_by? and return true or false returns true if the integer can be divided by the provided number: fizzbuzz" configurationId="RSpecRunConfigurationType" />
-    </history-entry>
-    <history-entry file="Run_spec_'fizzbuzz_spec'__fizzbuzz - 2016.05.24 at 13h 16m 35s.xml">
-      <configuration name="Run spec 'fizzbuzz_spec': fizzbuzz" configurationId="RSpecRunConfigurationType" />
-    </history-entry>
-    <history-entry file="Run_spec_'fizzbuzz_spec'__fizzbuzz - 2016.05.24 at 13h 16m 53s.xml">
-      <configuration name="Run spec 'fizzbuzz_spec': fizzbuzz" configurationId="RSpecRunConfigurationType" />
-    </history-entry>
-    <history-entry file="Run_spec_'fizzbuzz_spec'__fizzbuzz - 2016.05.24 at 13h 17m 24s.xml">
-      <configuration name="Run spec 'fizzbuzz_spec': fizzbuzz" configurationId="RSpecRunConfigurationType" />
-    </history-entry>
-    <history-entry file="Run_spec_'fizzbuzz_spec'__fizzbuzz - 2016.05.24 at 13h 28m 20s.xml">
+    <history-entry file="Run_spec_'fizzbuzz_spec'__fizzbuzz - 2016.05.24 at 14h 14m 42s.xml">
       <configuration name="Run spec 'fizzbuzz_spec': fizzbuzz" configurationId="RSpecRunConfigurationType" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2913000" />
+    <option name="totallyTimeSpent" value="4884000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="236" y="229" width="1400" height="986" extended-state="0" />
+    <frame x="65" y="24" width="1615" height="1026" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21671827" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3290735" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3156282" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
@@ -537,26 +542,26 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/lib/fizzbuzz.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="3" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="20" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+        <state relative-caret-position="75">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/spec/fizzbuzz_spec.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/fizzbuzz.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        <state relative-caret-position="225">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
           <folding />
         </state>
       </provider>

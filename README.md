@@ -1,7 +1,8 @@
 # fizzbuzz
 
 Start Time: 12:52pm
-Last Modified: 13:40pm (before final commit)
+Last Modified: 13:40pm (right before commit #77677c409ee62a6d5c1b4ce158574c72dea762cb)
+Commit made after finishing the test: 14:15pm
 
 Requirements in stage 2 throws out some uncertainties which are integers that contains one number (3 or 5) but can be
 divided by the other (5 or 3). For example, 35 can be divided by 5 and contains 3, whether its output is fizz or buzz is

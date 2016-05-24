@@ -37,12 +37,20 @@ describe 'Fizzbuzz' do
       expect(15.fizzbuzz).to eq 'fizzbuzz'
     end
 
-    it 'returns fizz if an integer can be divided by 3' do
+    it 'returns fizz if an integer can be divided by 3 or contains 3' do
       expect(3.fizzbuzz).to eq 'fizz'
+      expect(35.fizzbuzz).to eq 'fizz'
     end
 
-    it 'returns buzz if an integer can be divided by 5' do
+    it 'returns buzz if an integer can be divided by 5 or contains 5' do
       expect(5.fizzbuzz).to eq 'buzz'
+      expect(52.fizzbuzz).to eq 'buzz'
+    end
+
+    # assuming the rule divided by 3 or contains 3 takes priority
+    it 'returns fizz if an interger can be divided by 3 or contains 3 even if it can also contains 5' do
+      expect(53.fizzbuzz).to eq 'fizz'
+      expect(54.fizzbuzz).to eq 'fizz'
     end
 
     it 'returns itself if an integer can not be divided by either 3 or 5' do
